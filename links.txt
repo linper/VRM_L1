@@ -1,0 +1,10 @@
+antique_estoc_1k.gltf - https://polyhaven.com/a/antique_estoc
+brass_candleholders_1k.gltf - https://polyhaven.com/a/brass_candleholders
+brass_goblets_orig_1k.gltf - https://polyhaven.com/a/brass_goblets
+street_rat_1k.gltf - https://polyhaven.com/a/street_rat
+wine_barrel_01_1k.gltf - https://polyhaven.com/a/wine_barrel_01
+wooden_bucket_01_1k.gltf - https://polyhaven.com/a/wooden_bucket_01
+wooden_bucket_02_1k.gltf - https://polyhaven.com/a/wooden_bucket_02
+wooden_crate_01_1k.gltf - https://polyhaven.com/a/wooden_crate_01
+WoodenTable_01_1k.gltf - https://polyhaven.com/a/WoodenTable_01
+yellow_onion_1k.gltf - https://polyhaven.com/a/yellow_onion
