@@ -740,6 +740,7 @@ skeleton = NodePath("")
 
 [node name="RG_table_1" type="RigidBody3D" parent="models"]
 transform = Transform3D(1, 0, 0, 0, 1, -3.55271e-14, 0, 3.55271e-14, 1, 0.205091, -0.0895381, -2.53641)
+disable_mode = 1
 mass = 70.0
 
 [node name="WoodenTable_02" type="MeshInstance3D" parent="models/RG_table_1"]
